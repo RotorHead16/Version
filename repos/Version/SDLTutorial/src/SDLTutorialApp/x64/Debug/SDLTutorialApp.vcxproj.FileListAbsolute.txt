@@ -1,0 +1,2 @@
+C:\Users\cdrake\Desktop\TutorialApp\repos\Version\SDLTutorial\src\SDLTutorialApp\x64\Debug\SDLTutorialApp.exe
+C:\Users\cdrake\Desktop\TutorialApp\repos\Version\SDLTutorial\src\SDLTutorialApp\x64\Debug\SDLTutorialApp.pdb
